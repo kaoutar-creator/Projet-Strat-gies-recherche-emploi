@@ -1,2 +1,2 @@
-# Projet-Strat-gies-recherche-emploi
+# Projet-Strategies-recherche-emploi
 Présentation sur les stratégies pour transformer une recherche d'emploi passive en une démarche active et ciblée.
